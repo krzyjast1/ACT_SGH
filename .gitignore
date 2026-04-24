@@ -3,6 +3,7 @@
 
 # Śledź tylko te pliki
 !.gitignore
+!README.md
 !act_ryzyka_konkurencyjne.ipynb
 !act_projekt.ipynb
 !WA_Fn-UseC_-Telco-Customer-Churn.csv
